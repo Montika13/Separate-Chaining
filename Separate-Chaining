@@ -83,9 +83,9 @@ class SeperateChaining:
         self.table = newChain.table;   
 '''
 test = SeperateChaining(2);
-test.put("name","YN_TH");
-test.put("name2","YN_TH2");
-test.put("name3","YN_TH3");
+test.put("name","Skitty1");
+test.put("name2","Skitty2");
+test.put("name3","Skitty3");
 
 n1=test.get("name");
 n2=test.get("name2");
